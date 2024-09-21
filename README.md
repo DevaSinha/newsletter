@@ -31,8 +31,8 @@
 ```bash
 $ npm install
 ```
-Add required values in .env files
-Note: swagger-ui is implemented but authentication is not working, please use postman.
+ - Add required values in .env files
+ - Note: swagger-ui is implemented but authentication is not working, please use postman.
 
 ## Compile and run the project
 
